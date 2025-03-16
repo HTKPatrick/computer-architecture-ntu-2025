@@ -1,2 +1,2 @@
-# computer-architecture-ntu-2025
-CSIE 3340 Computer Architecture @ NTU 2025 Spring
+# Computer Architecture @ NTU 2025 Spring
+CSIE 3340: Computer Architecture, lectured by Professor CL Yang
